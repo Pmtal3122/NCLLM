@@ -62,3 +62,5 @@ responses = {
     "fixes": fixes,
     "revised_plot": revised_plot
 }
+
+print(responses)
