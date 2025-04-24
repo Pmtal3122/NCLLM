@@ -1,4 +1,4 @@
-# APPENDIX A: NarrativeCritiqueLLM (NCLLM) Stories List
+# APPENDIX B: NarrativeCritiqueLLM (NCLLM) Stories List
 
 ## Important facts about the list:
 
